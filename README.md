@@ -1,3 +1,3 @@
-# Basic-Algorithms-Trainning-Python
+# Algorithms-Trainning-for-Interview
 
-This repo is used for trainning the algorithm programming skills in Python in the Job test and interviews.
+This repo is used for trainning the algorithm programming skills in Python and C++ in the Job test and interviews.
